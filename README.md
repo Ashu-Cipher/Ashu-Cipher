@@ -31,10 +31,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashu-Cipher&show_icons=true&theme=tokyonight&hide=issues" width="47%" alt="Ashu-Cipher GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashu-Cipher&theme=tokyonight" width="47%" alt="Ashu-Cipher GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashu-Cipher&show_icons=true&theme=tokyonight&hide=issues" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashu-Cipher&theme=tokyonight" width="47%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-Cipher&layout=compact&theme=tokyonight" width="47%" alt="Ashu-Cipher Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-Cipher&layout=compact&theme=tokyonight" width="47%" alt="Top Languages" />
 </p>
