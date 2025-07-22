@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">👾 Ashu_Cipher</h1>
 
 <p align="center">
@@ -27,3 +25,16 @@
 🛡️ Ethical Hacking (Recon, Web Vulns, CTFs)
 🐍 Python (Automation & Scripting - occasional use)
 🧪 TryHackMe Labs
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashu-Cipher&show_icons=true&theme=tokyonight&hide=issues" width="47%" alt="Ashu-Cipher GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashu-Cipher&theme=tokyonight" width="47%" alt="Ashu-Cipher GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-Cipher&layout=compact&theme=tokyonight" width="47%" alt="Ashu-Cipher Top Languages" />
+</p>
