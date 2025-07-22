@@ -26,4 +26,4 @@
 🌐 Networking (IP, DNS, Routing, Subnetting)
 🛡️ Ethical Hacking (Recon, Web Vulns, CTFs)
 🐍 Python (Automation & Scripting - occasional use)
-🧪 TryHackMe Labs<!--
+🧪 TryHackMe Labs
